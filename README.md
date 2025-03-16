@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurkocmen&label=Profile%20views&color=0e75b6&style=flat" alt="ugurkocmen" /> </p>
 
+<h3 align="center">About Me</h3>
+
+<p align="center">Since 2021, I have been working in the field of cyber security and for the last 2 years. I am actively involved in the sector. I did an internship as an IT staff. Including my 1-year process; I am currently working in the cyber security sector. My work has been going on for 1 year. I am currently working in the field of CTI and SOC. I am training to become a SOC Analyst.</p>
+
 - 🔭 I’m currently working on **Lastguard Cyber Security Technologies**
 
 - 🌱 I’m currently learning **SIEM, IDS/IPS, Logging**
