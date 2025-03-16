@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurkocmen&show_icons=true&locale=en&layout=compact" alt="ugurkocmen" /></p>
 
 
-![snake gif](https://github.com/ugurkocmen/ugurkocmen/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/UgurKOCMEN/UgurKOCMEN/blob/output/github-contribution-grid-snake.gif)
