@@ -25,7 +25,7 @@
 
 <h3 align="left">Projects</h3>
 
-- 💡 [OpenCTI İnstallation and Configüration](https://github.com/ugurkocmen/OpenCTI)
+- 💡 [OpenCTI Installation and Configuration](https://github.com/ugurkocmen/OpenCTI)
 
 
 
