@@ -23,6 +23,11 @@
 
 
 
+<h3 align="left">Projects</h3>
+
+- 💡 [OpenCTI İnstallation and Configüration](https://github.com/ugurkocmen/OpenCTI)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
