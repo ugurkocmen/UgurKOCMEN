@@ -26,6 +26,7 @@
 <h3 align="left">Projects</h3>
 
 - 💡 [OpenCTI Installation and Configuration](https://github.com/ugurkocmen/OpenCTI)
+- 💡 [Suricata Network IDS/IPS Installation](https://github.com/ugurkocmen/Suricata)
 
 
 
