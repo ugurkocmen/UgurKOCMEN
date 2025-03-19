@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Lastguard Cyber Security Technologies**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **SIEM, IDS/IPS, Logging**
 
