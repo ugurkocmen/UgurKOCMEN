@@ -27,7 +27,7 @@
 
 - 💡 [OpenCTI Installation and Configuration](https://github.com/ugurkocmen/OpenCTI)
 - 💡 [Suricata Network IDS/IPS Installation](https://github.com/ugurkocmen/Suricata)
-- 💡 [Malicious Checker- CyberSentinel](https://github.com/ugurkocmen/CyberSentinel)
+- 💡 [Malicious Checker](https://github.com/ugurkocmen/MaliciousChecker)
 
 
 
