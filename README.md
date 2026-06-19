@@ -26,6 +26,7 @@
 - 💡 [OpenCTI Installation and Configuration](https://github.com/ugurkocmen/OpenCTI)
 - 💡 [Suricata Network IDS/IPS Installation](https://github.com/ugurkocmen/Suricata)
 - 💡 [Malicious Checker](https://github.com/ugurkocmen/MaliciousChecker)
+- 💡 [AD Extreme Lab](https://github.com/ugurkocmen/AD-Extreme-Lab)
 
 
 
