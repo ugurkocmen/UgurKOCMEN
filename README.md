@@ -3,35 +3,35 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">I have been deeply focused on cyber security since 2021 [User Summary, 1]. Starting my professional journey in Cyber Threat Intelligence (CTI) in 2023, I later expanded my expertise into the Security Operations Center (SOC) domain [User Summary, 1]. During my time as a SOC Analyst, I earned the EC-Council <b>Certified SOC Analyst (CSA)</b> certification [1]. Currently, I am actively preparing for the <b>CEHv13</b> certification as I pivot my career path toward <b>Red Teaming and Offensive Security</b> [User Summary, 1].</p>
+<p align="center">I have been deeply focused on cyber security since 2021. Starting my professional journey in Cyber Threat Intelligence (CTI) in 2023, I later expanded my expertise into the Security Operations Center (SOC) domain. During my time as a SOC Analyst, I earned the EC-Council <b>Certified SOC Analyst (CSA)</b> certification. Currently, I am actively preparing for the <b>CEHv13</b> certification as I pivot my career path toward <b>Red Teaming and Offensive Security</b>.</p>
 
-- 🔭 I’m currently working on **Transitioning into Red Team Operations & Penetration Testing** [User Summary]
+- 🔭 I’m currently working on **Transitioning into Red Team Operations & Penetration Testing**
 
-- 🌱 I’m currently learning **Advanced Exploitation, Active Directory Pentesting, and CEHv13** [User Summary, 1]
+- 🌱 I’m currently learning **Advanced Exploitation, Active Directory Pentesting, and CEHv13**
 
-- 📝 I regularly write articles on [https://medium.com/@ugurkocmen](https://medium.com/@ugurkocmen) [1]
+- 📝 I regularly write articles on [https://medium.com/@ugurkocmen](https://medium.com/@ugurkocmen)
 
-- 💬 Ask me about **SOC Operations, Threat Intelligence & Offensive Security Simulations** [User Summary, 1]
+- 💬 Ask me about **SOC Operations, Threat Intelligence & Offensive Security Simulations**
 
-- 📫 How to reach me **ugurkoocmen@gmail.com** [1]
+- 📫 How to reach me **ugurkoocmen@gmail.com**
 
-- 📄 Know about my experiences [https://ugurkocmen.com.tr](https://ugurkocmen.com.tr/) [1]
+- 📄 Know about my experiences [https://ugurkocmen.com.tr](https://ugurkocmen.com.tr/)
 
 
 <h3 align="left">Certifications</h3>
 
-- 🥇 **Certified SOC Analyst (CSA)** - EC-Council [1]
-- 📚 **Certified Ethical Hacker (CEHv13)** - EC-Council *(In Progress)* [User Summary, 1]
-- 🛠️ **Practical Malware Analysis & Triage (PMAT)** - TCM Security [1]
-- 🔒 **MITRE ATT&CK v13** - AttackIQ [1]
+- 🥇 **Certified SOC Analyst (CSA)** - EC-Council
+- 📚 **Certified Ethical Hacker (CEHv13)** - EC-Council *(In Progress)*
+- 🛠️ **Practical Malware Analysis & Triage (PMAT)** - TCM Security
+- 🔒 **MITRE ATT&CK v13** - AttackIQ
 
 
 <h3 align="left">Projects</h3>
 
-- 💡 [OpenCTI Installation and Configuration](https://github.com/ugurkocmen/OpenCTI) [1]
-- 💡 [Suricata Network IDS/IPS Installation](https://github.com/ugurkocmen/Suricata) [1]
-- 💡 [Malicious Checker](https://github.com/ugurkocmen/MaliciousChecker) [1]
-- 💡 [AD Extreme Lab](https://github.com/ugurkocmen/AD-Extreme-Lab) [1]
+- 💡 [OpenCTI Installation and Configuration](https://github.com/ugurkocmen/OpenCTI)
+- 💡 [Suricata Network IDS/IPS Installation](https://github.com/ugurkocmen/Suricata)
+- 💡 [Malicious Checker](https://github.com/ugurkocmen/MaliciousChecker)
+- 💡 [AD Extreme Lab](https://github.com/ugurkocmen/AD-Extreme-Lab)
 
 
 <h3 align="left">Connect with me:</h3>
