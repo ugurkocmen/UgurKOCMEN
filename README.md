@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ugur KOCMEN</h1>
-<h3 align="center">Cyber Security</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurkocmen&label=Profile%20views&color=0e75b6&style=flat" alt="ugurkocmen" /> </p>
+<h3 align="center">Cyber Security & Threat Intelligence Analyst</h3>
 
 <h3 align="center">About Me</h3>
 
@@ -9,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Dndx Cyber Security**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **SIEM, IDS/IPS, Logging**
 
