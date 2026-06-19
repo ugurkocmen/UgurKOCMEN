@@ -3,7 +3,7 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">I have been deeply focused on cyber security since 2021. Starting my professional journey in Cyber Threat Intelligence (CTI) in 2023, I later expanded my expertise into the Security Operations Center (SOC) domain. During my time as a SOC Analyst, I earned the EC-Council <b>Certified SOC Analyst (CSA)</b> certification. Currently, I am actively preparing for the <b>CEHv13</b> certification as I pivot my career path toward <b>Red Teaming and Offensive Security</b>.</p>
+<p align="center">I have been deeply focused on cyber security since 2021. Starting my professional journey in Cyber Threat Intelligence (CTI) in 2023, I later expanded my expertise into the Security Operations Center (SOC) domain. During my time as a SOC Analyst, I earned the EC-Council <b>Certified SOC Analyst (CSA)</b> certification. Currently, I am actively preparing for the <b>Certified Ethical Hacker (CEHv13)</b> certification as I pivot my career path toward <b>Red Teaming and Offensive Security</b>.</p>
 
 - 🔭 I’m currently working on **Transitioning into Red Team Operations & Penetration Testing**
 
