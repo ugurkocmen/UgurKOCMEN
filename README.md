@@ -55,10 +55,15 @@ I've been working in cyber security since 2021. I started in threat intelligence
 
 ## Certifications
 
-- **Certified SOC Analyst (CSA)**, EC-Council
-- **Certified Ethical Hacker (CEHv13)**, EC-Council *(in progress)*
-- **Practical Malware Analysis & Triage (PMAT)**, TCM Security
-- **MITRE ATT&CK v13**, AttackIQ
+| Certification | Issuer | Date |
+| --- | --- | --- |
+| Certified SOC Analyst (CSA) | EC-Council | Dec 2025 |
+| Certified Ethical Hacker (CEHv13) | EC-Council | In progress |
+| MITRE ATT&CK v13 | AttackIQ | Oct 2025 |
+| Incident Response | Siber Kulüpler | Mar 2025 |
+| Threat Hunting Workshop | Cyber Shield Community | |
+| CyberOps Associate | Cisco Networking Academy | Aug 2024 |
+| Practical Malware Analysis & Triage (PMAT) | TCM Security | |
 
 ## Writing
 
