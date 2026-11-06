@@ -82,7 +82,6 @@ Feel free to reach out about security projects, consulting, or anything else.
 - Email: [ugurkoocmen@gmail.com](mailto:ugurkoocmen@gmail.com)
 - Website: [ugurkocmen.com.tr](https://ugurkocmen.com.tr)
 - LinkedIn: [linkedin.com/in/ukocmen](https://www.linkedin.com/in/ukocmen/)
-- Instagram: [instagram.com/ukocmenn](https://instagram.com/ukocmenn)
 
 ---
 
