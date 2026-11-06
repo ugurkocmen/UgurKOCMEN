@@ -57,13 +57,16 @@ I've been working in cyber security since 2021. I started in threat intelligence
 
 | Certification | Issuer | Date |
 | --- | --- | --- |
+| Certified AppSec Pentester (CAPen) | The SecOps Group | Nov 2026 |
+| Certified Red Team Analyst (CRTA) | CyberWarFare Labs | Sep 2026 |
+| Certified Web Red Team Analyst (WEB-RTA) | CyberWarFare Labs | Sep 2026 |
+| Practical Malware Analysis & Triage (PMAT) | TCM Security | Mar 2026 |
 | Certified SOC Analyst (CSA) | EC-Council | Dec 2025 |
 | Certified Ethical Hacker (CEHv13) | EC-Council | In progress |
 | MITRE ATT&CK v13 | AttackIQ | Oct 2025 |
 | Incident Response | Siber Kulüpler | Mar 2025 |
-| Threat Hunting Workshop | Cyber Shield Community | |
+| Threat Hunting Workshop | Cyber Shield Community | Aug 2024 |
 | CyberOps Associate | Cisco Networking Academy | Aug 2024 |
-| Practical Malware Analysis & Triage (PMAT) | TCM Security | |
 
 ## Writing
 
