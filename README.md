@@ -18,7 +18,7 @@
 
 I've been working in cyber security since 2021. I started in threat intelligence (CTI) in 2023, then moved into SOC work, where I earned the EC-Council Certified SOC Analyst (CSA). I'm now moving toward red teaming and offensive security, and I'm preparing for CEHv13 while working on exploitation and Active Directory attacks.
 
-- **Based in:** İzmir, Turkey
+- **Based in:** Turkey
 - **Education:** Anadolu University, Open Education Faculty, Web Design and Coding (2024 to present)
 - **Languages:** Turkish (native), English (B1)
 
@@ -26,10 +26,10 @@ I've been working in cyber security since 2021. I started in threat intelligence
 
 | Period | Role | Company |
 | --- | --- | --- |
-| Mar 2025 – Jun 2026 | Cyber Security Analyst | DNDX Bilişim Teknolojileri |
-| Nov 2023 – Mar 2025 | Threat Intelligence Analyst | LastGuard Siber Güvenlik Teknolojileri |
-| May 2024 – Nov 2024 | IT Staff | Metropol Sağlık Grubu |
-| Sep 2021 – Jun 2022 | Intern | İzmir Büyükşehir Belediyesi, IT Department |
+| Mar 2025 – Jun 2026 | Cyber Security Analyst | Dndx Information Technologies|
+| Nov 2023 – Mar 2025 | Threat Intelligence Analyst | LastGuard Cyber Security Technologies |
+| May 2024 – Nov 2024 | IT Staff | Metropol Health Group |
+| Sep 2021 – Jun 2022 | Intern | Izmir Metropolitan Municipality IT Department |
 
 ## Projects
 
@@ -57,6 +57,7 @@ I've been working in cyber security since 2021. I started in threat intelligence
 
 | Certification | Issuer | Date |
 | --- | --- | --- |
+| Certified Network Pentester (CNPen) | The SecOps Group | Nov 2026 |
 | Certified AppSec Pentester (CAPen) | The SecOps Group | Nov 2026 |
 | Certified Red Team Analyst (CRTA) | CyberWarFare Labs | Sep 2026 |
 | Certified Web Red Team Analyst (WEB-RTA) | CyberWarFare Labs | Sep 2026 |
