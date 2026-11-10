@@ -52,7 +52,7 @@ I've been working in cyber security since 2021. I started in threat intelligence
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [AD Extreme Lab](https://github.com/ugurkocmen/AD-Extreme-Lab) | A Vagrant-based Active Directory lab. You start from a foothold in a container and work up to Domain Admin through a Docker escape, GPO abuse, AMSI bypass and an ADCS ESC13 chain. | Vagrant, Windows Server 2022, Kali, certipy, bloodyAD |
-| [Zexec](https://github.com/ugurkocmen/Zexec) | Zexec is an automated internal-network and Active Directory penetration testing tool. You give it a CIDR range or a single IP; it discovers live hosts, identifies the AD environment, enumerates it, attacks credentials and misconfigurations, moves laterally, and attempts to reach Domain Admin while never running exploits that can crash or lock systems. |
+| [Zexec](https://github.com/ugurkocmen/Zexec) | Zexec is an automated internal-network and Active Directory penetration testing tool. You give it a CIDR range or a single IP; it discovers live hosts, identifies the AD environment, enumerates it, attacks credentials and misconfigurations, moves laterally, and attempts to reach Domain Admin while never running exploits that can crash or lock systems. | Python 3, Kali Linux, nmap, NetExec, Impacket, Certipy AD, BloodHound, hashcat |
 
 ## Certifications
 
