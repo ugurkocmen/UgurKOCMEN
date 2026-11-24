@@ -58,6 +58,8 @@ I've been working in cyber security since 2021. I started in threat intelligence
 
 | Certification | Issuer | Date |
 | --- | --- | --- |
+| Oriana Certified SIEM Engineer (OSCE) | Oriana Technologies | Nov 2026 |
+| Oriana Certified SIEM Administrator (OSCA) | Oriana Technologies | Nov 2026 |
 | Certified Network Pentester (CNPen) | The SecOps Group | Nov 2026 |
 | Certified AppSec Pentester (CAPen) | The SecOps Group | Nov 2026 |
 | Certified Red Team Analyst (CRTA) | CyberWarFare Labs | Sep 2026 |
